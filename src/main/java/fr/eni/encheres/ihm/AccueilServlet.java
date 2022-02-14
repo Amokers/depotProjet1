@@ -18,7 +18,7 @@ public class AccueilServlet extends HttpServlet {
      * Default constructor. 
      */
     public AccueilServlet() {
-    	System.out.println("test alexis veslin");
+    	System.out.println("test Alexis Veslin");
         // TODO Auto-generated constructor stub
     }
 
@@ -37,7 +37,4 @@ public class AccueilServlet extends HttpServlet {
 		// TODO Auto-generated method stub
 		doGet(request, response);
 	}
-	
-	
-
 }
